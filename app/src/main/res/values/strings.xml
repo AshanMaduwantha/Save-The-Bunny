@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Save The Bunny</string>
+    <string name="highScore">High Score : 0</string>
+    <string name="score">Score : 0</string>
+    <string name="start">Start</string>
+    <string name="restart">Restart</string>
+    <string name="exit" />
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="startBtn" type="id" />
+    <item name="highScore" type="id" />
+    <item name="score" type="id" />
+    <item name="restartBtn" type="id" />
+    <item name="rootLayout" type="id" />
+    <item name="resetHighScoreBtn" type="id" />
+</resources>
