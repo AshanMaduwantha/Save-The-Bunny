@@ -18,7 +18,7 @@ Welcome to Save The Bunny, an exciting mobile game where players navigate a Bunn
 3. To move the spaceship, tap on the screen:
    - Tap left to move left.
    - Tap right to move right.
-4. Avoid collisions with meteors.
+4. Avoid collisions with bombs.
 5. Your final score and highest score will be displayed upon game over.
 6. Choose to restart or exit the game.
 
